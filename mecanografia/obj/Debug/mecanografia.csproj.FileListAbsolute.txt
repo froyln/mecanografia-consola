@@ -1,0 +1,7 @@
+C:\Users\froyl\Desktop\test\mecanografia\mecanografia\bin\Debug\mecanografia.exe.config
+C:\Users\froyl\Desktop\test\mecanografia\mecanografia\bin\Debug\mecanografia.exe
+C:\Users\froyl\Desktop\test\mecanografia\mecanografia\bin\Debug\mecanografia.pdb
+C:\Users\froyl\Desktop\test\mecanografia\mecanografia\obj\Debug\mecanografia.csproj.AssemblyReference.cache
+C:\Users\froyl\Desktop\test\mecanografia\mecanografia\obj\Debug\mecanografia.csproj.CoreCompileInputs.cache
+C:\Users\froyl\Desktop\test\mecanografia\mecanografia\obj\Debug\mecanografia.exe
+C:\Users\froyl\Desktop\test\mecanografia\mecanografia\obj\Debug\mecanografia.pdb
